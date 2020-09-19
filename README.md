@@ -2,7 +2,7 @@
 
 Gaqmekao is an experimental, community-led dictionary for Toaq. It is a fork of the [official dictionary](https://github.com/toaq/dictionary) and as such uses the same [format](./format.md).
 
-# Contributing
+# contributing
 
 To understand what dictionary entries should look like, read the [format guidelines](./format.md).
 
@@ -10,6 +10,6 @@ To add a new entry, insert your definition anywhere in `dictionary.json`, making
 
 We also need help cleaning up data imported from Toadua, as it lacks type, frame, and distributivity data, among other irregularities. Feel free to submit pull requests adding this data in bulk.
 
-# Roadmap
+# roadmap
 
 This repository should eventually host tools for converting the dictionary data to more convenient formats, such as StarDict.
