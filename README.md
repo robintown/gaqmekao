@@ -12,4 +12,6 @@ We also need help cleaning up data imported from Toadua, as it lacks type, frame
 
 # exports
 
+Automatically updated exports are available under the [releases page](https://github.com/robintown/gaqmekao/releases/tag/latest) on GitHub.
+
 You can run `tools/stardict.sh` to generate a StarDict export of the dictionary. It requires Node, as well as tabfile from stardict-tools. The generated file `stardict.tar.xz` may be used in GoldenDict by extracting it in your GoldenDict dictionary directory (typically `~/.local/share/goldendict`).
