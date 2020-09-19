@@ -10,6 +10,6 @@ To add a new entry, insert your definition anywhere in `dictionary.json`, making
 
 We also need help cleaning up data imported from Toadua, as it lacks type, frame, and distributivity data, among other irregularities. Feel free to submit pull requests adding this data in bulk.
 
-# roadmap
+# exports
 
-This repository should eventually host tools for converting the dictionary data to more convenient formats, such as StarDict.
+You can run `tools/stardict.sh` to generate a StarDict export of the dictionary. It requires Node, as well as tabfile from stardict-tools. The generated file `stardict.tar.xz` may be used in GoldenDict by extracting it in your GoldenDict dictionary directory (typically `~/.local/share/goldendict`).
