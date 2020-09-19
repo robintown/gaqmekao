@@ -1,0 +1,28 @@
+name: release
+on:
+  push:
+    branches:
+      - main
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out
+        uses: actions/checkout@v2
+      - name: set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: install stardict-tools
+        run: sudo apt install stardict-tools
+      - name: create StarDict export
+        run: |
+          export PATH="$PATH:/usr/lib/stardict-tools"
+          tools/stardict.sh
+      - name: release exports
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: latest
+          prerelease: false
+          files: stardict.tar.xz
