@@ -8,10 +8,7 @@ function render_entry(entry) {
   }
   let frame_name = frame_names[entry.frame];
   if(!frame_name) {
-    if(entry.frame)
-      throw new Error(
-        `frame ‘${entry.frame}’ from entry «${entry.toaq}» ` +
-        `does not have a namesake`);
+    attr('frame', entry.frame);
   } else attr('frame', `${frame_name} (${entry.frame})`);
   let english = entry.english;
   if(entry.distribution) {
