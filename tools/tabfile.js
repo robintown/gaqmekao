@@ -13,6 +13,8 @@ const tabfile = dictionary.map(entry => {
     if (entry.type)
       sections.push(entry.type);
     sections.push(entry.english);
+    if (entry.official)
+      sections.push(`official`);
     if (entry.gloss)
       sections.push(`gloss: ${entry.gloss}`);
     if (entry.keywords.length > 0)
