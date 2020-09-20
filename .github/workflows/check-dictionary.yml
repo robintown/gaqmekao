@@ -6,12 +6,9 @@ on:
     types:
       - synchronize
       - opened
-      - labeled
-      - unlabeled
 jobs:
   check-dictionary:
     runs-on: ubuntu-latest
-    if: ${{ contains(github.event.pull_request.labels.*.name, 'edit dictionary') }}
     steps:
       - name: check out
         uses: actions/checkout@v2
