@@ -1,7 +1,8 @@
 [
   {
     "toaq": "â",
-    "english": "interjection: realization, \"aha!\"",
+    "type": "interjection",
+    "english": "realization, \"aha!\"",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -10,75 +11,107 @@
   },
   {
     "toaq": "abā",
+    "type": "predicate",
     "english": "▯ is a father/dad/daddy/papa.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Acākī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Artsakh → Artsakh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Acākīgūa",
+    "type": "predicate",
     "english": "▯ is the country Artsakh → Artsakh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Acākītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Artsakh → Artsakh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "achū",
-    "english": "▯ sneezes",
+    "type": "predicate",
+    "english": "▯ sneezes.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "achūcūa",
+    "type": "predicate",
     "english": "▯ blesses ▯ as they've sneezed.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "achōa",
+    "type": "predicate",
     "english": "▯ utters an ‘ah’ sound.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "acī",
+    "type": "predicate",
     "english": "▯ is acid.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "acē",
@@ -91,297 +124,421 @@
   },
   {
     "toaq": "adī",
-    "english": "▯ is fat(the substance).",
+    "type": "predicate",
+    "english": "▯ is fat (the substance).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Afāgāq",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Afghanistan – Islamic Republic of Afghanistan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Afāgāqgūa",
+    "type": "predicate",
     "english": "▯ is the country Afghanistan – Islamic Republic of Afghanistan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Afāgāqtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Afghanistan – Islamic Republic of Afghanistan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Agēqtīnā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Argentina – Argentine Republic[g].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Agēqtīnāgūa",
+    "type": "predicate",
     "english": "▯ is the country Argentina – Argentine Republic[g].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Agēqtīnātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Argentina – Argentine Republic[g].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ahōı",
-    "english": "▯ welcomes ▯ to ▯",
+    "type": "predicate",
+    "english": "▯ welcomes ▯ to ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "a priori",
-      "…that's not a priori!",
-      "a pristeriori"
-    ],
-    "examples": []
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "akā",
+    "type": "predicate",
     "english": "▯ is a root (of a plant).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "From Malayo-Polynesian *(w)akaʀ (Indonesian \"akar\", Polynesian \"aka\"…)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "akō",
+    "type": "predicate",
     "english": "▯ is the peak/summit/height of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Amēnīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Armenia – Republic of Armenia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Amēnīagūa",
+    "type": "predicate",
     "english": "▯ is the country Armenia – Republic of Armenia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Amēnīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Armenia – Republic of Armenia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anī",
+    "type": "predicate",
     "english": "▯ is sand.",
-    "gloss": "",
+    "gloss": "sand",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anīgūaq",
-    "english": "predicate: ‘desert’; ▯ is a desert.",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a desert.",
+    "gloss": "desert",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anīhī",
-    "english": "▯ is a sandwhich",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a sandwich",
+    "gloss": "sandwich",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anīmē",
+    "type": "predicate",
     "english": "▯ is an anime (Japanese-style animation film/movie/cartoon).",
-    "gloss": "",
+    "gloss": "anime",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anīnȳaq",
+    "type": "predicate",
     "english": "▯ is a beach.",
-    "gloss": "",
+    "gloss": "beach",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anīrēa",
+    "type": "predicate",
     "english": "▯ is a beach.",
-    "gloss": "",
+    "gloss": "beach",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anītōaı",
-    "english": "▯ is a grain of sand",
+    "type": "predicate",
+    "english": "▯ is a grain of sand.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "apū",
-    "english": "▯ is an application",
+    "type": "predicate",
+    "english": "▯ is an application.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "apī",
+    "type": "predicate",
     "english": "▯ is a bee.",
-    "gloss": "",
+    "gloss": "bee",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "apībūe",
+    "type": "predicate",
     "english": "▯ is a hive.",
-    "gloss": "",
+    "gloss": "hive",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "apīdūao",
+    "type": "predicate",
     "english": "▯ is honey.",
-    "gloss": "",
+    "gloss": "honey",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "arānē",
-    "english": "predicate: ‘spider’; ▯ is a spider.",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a spider.",
+    "gloss": "spider",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "arānēkōaı",
+    "type": "predicate",
     "english": "▯ is a spiderweb.",
-    "gloss": "",
+    "gloss": "spiderweb",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "arānēsūhū",
+    "type": "predicate",
     "english": "▯ does whatever a spider pig does.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "atōq",
+    "type": "predicate",
     "english": "▯ is an atom.",
-    "gloss": "",
+    "gloss": "atom",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "atōqchū",
+    "type": "predicate",
     "english": "▯ is an atomic nucleus.",
-    "gloss": "",
+    "gloss": "nucleus",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Azēbāı",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Azerbaijan – Republic of Azerbaijan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Azēbāıgūa",
+    "type": "predicate",
     "english": "▯ is the country Azerbaijan – Republic of Azerbaijan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Azēbāıtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Azerbaijan – Republic of Azerbaijan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aq",
@@ -394,95 +551,135 @@
   },
   {
     "toaq": "Aqdōrā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Andorra – Principality of Andorra.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqdōrāgūa",
+    "type": "predicate",
     "english": "▯ is the country Andorra – Principality of Andorra.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqdōrātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Andorra – Principality of Andorra.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqgōlā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Angola – Republic of Angola.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqgōlāgūa",
+    "type": "predicate",
     "english": "▯ is the country Angola – Republic of Angola.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqgōlātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Angola – Republic of Angola.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aqshē",
+    "type": "predicate",
     "english": "▯ is a donkey/ass (Equus africanus asinus).",
-    "gloss": "",
+    "gloss": "donkey",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "From Sumerian 𒀲/anše."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqtīgūarōıbābūdā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Antigua and Barbuda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqtīgūarōıbābūdāgūa",
+    "type": "predicate",
     "english": "▯ is the country Antigua and Barbuda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Aqtīgūarōıbābūdātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Antigua and Barbuda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "a'ā",
@@ -504,80 +701,110 @@
   },
   {
     "toaq": "aı",
+    "type": "predicate",
     "english": "▯ has the nature of/resembles/has traits that are typical of ▯; ▯ is ▯-ish/-y.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "property place?"
-    ],
-    "examples": []
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıcȳ",
-    "english": "▯ is an integer (positive or negative)",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is an integer.",
+    "gloss": "integer",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıpū",
+    "type": "predicate",
     "english": "▯ is a ghost/spirit.",
-    "gloss": "",
+    "gloss": "ghost",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıpūrāq",
+    "type": "predicate",
     "english": "▯ is ghostly/related to ghosts.",
-    "gloss": "",
+    "gloss": "ghostly",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıpī",
-    "english": "▯ is a faerie/fairy, an elf or an imp, or a brownie. \nin the spirit of aıpū but with an ī because i find it cuter",
+    "type": "predicate",
+    "english": "▯ is a faerie/fairy, an elf or an imp, or a brownie.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıpō",
+    "type": "predicate",
     "english": "▯ is a gremlin, goblin, or the like.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "keeping in pace with aıpū and aıpī",
       "keyword: ogre"
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aıpē",
-    "english": "▯ is a gnome, dwarf, or the like",
+    "type": "predicate",
+    "english": "▯ is a gnome, dwarf, or the like.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aısōpō",
-    "english": "▯ is an isopod",
+    "type": "predicate",
+    "english": "▯ is an isopod.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aı'āı",
@@ -592,54 +819,80 @@
   },
   {
     "toaq": "ao",
+    "type": "predicate",
     "english": "▯ would be the case if ▯ were the case.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aojīaq",
+    "type": "predicate",
     "english": "▯ is the hypothetical world where ▯ is the case.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aolūa",
+    "type": "predicate",
     "english": "▯ is a fiction.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aoshāo",
+    "type": "predicate",
     "english": "▯ wishes ▯ were the case, but it isn't.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "aoshȳ",
-    "english": "You would allow ▯ to happen (if it were to be to happen).",
+    "type": "predicate",
+    "english": "you would allow ▯ to happen (if it were to be to happen).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [
-      "to be used in polite questions: ma jiainua jí ní duaodoai ãoshȳ moq ‘would you let me take this confection’"
+      "To be used in polite questions."
     ],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "mả jỉaınūa jí ní dủaodōaı ãoshȳ moq",
+        "english": "Would you let me take this confection?"
+      }
+    ],
+    "fields": []
   },
   {
     "toaq": "ù",
-    "english": "[Interjection] Expression of pity (lojban's {.uu})",
+    "type": "interjection",
+    "english": "expression of pity",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -648,59 +901,83 @@
   },
   {
     "toaq": "ubūlā",
-    "english": "▯ is a human uvula",
+    "type": "predicate",
+    "english": "▯ is a human uvula.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ubūlālāq",
+    "type": "predicate",
     "english": "▯ is an uvular consonant.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ubūlātī",
-    "english": "▯ is uvular/articulated at/using the uvula (phonetics)",
+    "type": "predicate",
+    "english": "▯ is uvular/articulated at/using the uvula (phonetics).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "uchī",
+    "type": "predicate",
     "english": "▯ is the sex phenotype of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [
       "A priori."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "uchīhēopīa",
+    "type": "predicate",
     "english": "▯ is an opposite-sex sibling of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "uchījēqpīa",
+    "type": "predicate",
     "english": "▯ is a same-sex sibling of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "uchīu",
@@ -733,30 +1010,42 @@
   },
   {
     "toaq": "Ugāqdā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Uganda – Republic of Uganda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ugāqdāgūa",
+    "type": "predicate",
     "english": "▯ is the country Uganda – Republic of Uganda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ugāqdātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Uganda – Republic of Uganda.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ugī",
@@ -771,77 +1060,109 @@
   },
   {
     "toaq": "uhāqkāhā",
+    "type": "predicate",
     "english": "▯ suffers from COVID-19 disease.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: uhāq (Wuhan) + kahā (cough)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "urū",
+    "type": "predicate",
     "english": "▯ feels a tingling sensation; ▯ feels pins and needles.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Urūgūaı",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Uruguay – Oriental Republic of Uruguay.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Urūgūaıgūa",
+    "type": "predicate",
     "english": "▯ is the country Uruguay – Oriental Republic of Uruguay.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Urūgūaıtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Uruguay – Oriental Republic of Uruguay.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Usōnā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of United States – United States of America.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Usōnāgūa",
+    "type": "predicate",
     "english": "▯ is the country United States – United States of America.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Usōnātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in United States – United States of America.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "uq",
@@ -863,17 +1184,22 @@
   },
   {
     "toaq": "uūpōq",
+    "type": "predicate",
     "english": "▯ is a \"woo woo\" person",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: In English, the word \"woo\" or the phrase \"woo woo\" can refer to mystical/semi-mystical things like meditation, mindfulness, astrological signs, etc (note that things that actually work are not necessarily excluded)"
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ùı",
+    "type": "interjection",
     "english": "‘um, actually’; ‘not exactly’; nitpicking interjection",
     "gloss": "",
     "short": "",
@@ -892,7 +1218,8 @@
   },
   {
     "toaq": "ùe",
-    "english": "Interjection: expression of surprise, with overtones of disagreement or protest.",
+    "type": "interjection",
+    "english": "expression of surprise, with overtones of disagreement or protest",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -901,290 +1228,414 @@
   },
   {
     "toaq": "ımēı",
-    "english": "▯ is an email",
+    "type": "predicate",
+    "english": "▯ is an email.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ımēıchīu",
-    "english": "▯ is an email address",
+    "type": "predicate",
+    "english": "▯ is an email address.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ımēıdīeq",
-    "english": "▯ emails ▯ to ▯",
+    "type": "predicate",
+    "english": "▯ emails ▯ to ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irākī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Iraq – Republic of Iraq.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irākīgūa",
+    "type": "predicate",
     "english": "▯ is the country Iraq – Republic of Iraq.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irākītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Iraq – Republic of Iraq.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irānī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Iran – Islamic Republic of Iran.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irānīgūa",
+    "type": "predicate",
     "english": "▯ is the country Iran – Islamic Republic of Iran.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Irānītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Iran – Islamic Republic of Iran.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Itālīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Italy – Italian Republic.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Itālīagūa",
+    "type": "predicate",
     "english": "▯ is the country Italy – Italian Republic.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Itālīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Italy – Italian Republic.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqcȳ",
+    "type": "predicate",
     "english": "▯ is a scalar quantity (agnostic between rational numbers and real numbers)",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqdōnēsīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Indonesia – Republic of Indonesia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqdōnēsīagūa",
+    "type": "predicate",
     "english": "▯ is the country Indonesia – Republic of Indonesia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqdōnēsīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Indonesia – Republic of Indonesia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqfȳlūeqtīa",
+    "type": "predicate",
     "english": "▯ is flu.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqhūı",
+    "type": "predicate",
     "english": "▯ is a word-for-word/literal translation / calque; ▯ is an idiom or peculiarity of speech directly translated without any consideration for the semantics, grammar, and idiomatic patterns of the target language; ▯ is [not necessarily] a figure of speech commonly used in natlangs, but meaningless in the context of the destination language; ▯ is malglico (though not restricted to English).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqlāq",
+    "type": "predicate",
     "english": "▯ pertains to the culture of England.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqlāqgūa",
+    "type": "predicate",
     "english": "▯ is England.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqlāqpīucīubīa",
+    "type": "predicate",
     "english": "▯ suffers from the English sweating sickness (sudor anglicus).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqlāqsūedōbīa",
+    "type": "predicate",
     "english": "▯ suffers from the English sweating sickness (sudor anglicus).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Iqlāqtōaq",
+    "type": "predicate",
     "english": "▯ is the English language.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqlī",
+    "type": "predicate",
     "english": "▯ is English (related to the English language or the Anglosphere, especially England).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
-      "this is different from **ıqlāq**, whose scope does not include North America, Australia, etc."
+      "This is different from ıqlāq, whose scope does not include North America, Australia, etc."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqlīgūa",
+    "type": "predicate",
     "english": "▯ is an Anglophone country.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıqlītōaq",
+    "type": "predicate",
     "english": "▯ is specifically the English language.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıat",
+    "type": "predicate",
     "english": "▯ is a protist.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "1 syllable because yes"
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ı'ī",
+    "type": "predicate",
     "english": "▯ is an oink-oink pig.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Infantile term."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ıo",
-    "english": "particle: emphasis, attention-drawing, exclamation\ngı̉da ıo! that's great!",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [
-      "io"
-    ],
-    "examples": []
-  },
-  {
-    "toaq": "ıotā",
-    "english": "predicate: ‘yotta’; ▯ are 10<sup>24</sup> (1,000,000,000,000,000,000,000,000) in number; ▯ are a septillion.",
+    "type": "interjection",
+    "english": "emphasis, attention-drawing, exclamation",
     "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "gỉ da ıo",
+        "english": "That's great!"
+      }
+    ]
+  },
+  {
+    "toaq": "ıotā",
+    "type": "predicate",
+    "english": "▯ are 10<sup>24</sup> (1,000,000,000,000,000,000,000,000) in number; ▯ are a septillion.",
+    "gloss": "yotta",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "obā",
+    "type": "predicate",
     "english": "▯ is massive, has a great mass.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "obānē",
@@ -1197,135 +1648,191 @@
   },
   {
     "toaq": "ogūı",
+    "type": "predicate",
     "english": "▯ is a snake.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "okēı",
+    "type": "predicate",
     "english": "▯ is OK (okay, fine, acceptable, all right).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [
       "Doesn't cover the “passable, but not especially good” meaning that “OK” sometimes has in English (as in “the party was OK”)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "orāı",
+    "type": "predicate",
     "english": "▯ is a true oyster of genus Ostrea.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: From Ancient-Greek \"ὄστρειον\" (óstreion), whose -ει- suffix probably continues an earlier -αι- form."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osēılīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Australia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osēılīagūa",
+    "type": "predicate",
     "english": "▯ is the country of Australia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osēılīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Australia,",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "osȳrāı",
+    "type": "predicate",
     "english": "▯ is a true oyster of genus Ostrea.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: From Ancient-Greek \"ὄστρειον\" (óstreion), whose -ει- suffix probably continues an earlier -αι- form."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "osȳrāısīu",
+    "type": "predicate",
     "english": "▯ is a true oyster (Ostreidae family).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osȳrēılīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Australia – Commonwealth of Australia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osȳrēılīagūa",
+    "type": "predicate",
     "english": "▯ is the country Australia – Commonwealth of Australia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Osȳrēılīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Australia – Commonwealth of Australia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "O(sȳ)tērāı",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Austria – Republic of Austria.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "O(sȳ)tērāıgūa",
+    "type": "predicate",
     "english": "▯ is the country Austria – Republic of Austria.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "O(sȳ)tērāıtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Austria – Republic of Austria.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "otōaı",
@@ -1340,69 +1847,96 @@
   },
   {
     "toaq": "otē",
+    "type": "predicate",
     "english": "▯ is the case to an average extent (neither great nor small); ▯ satisfies property ▯ to an average extent.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [
       "A priori.",
       "Does not imply strict average extent, but rather closeness to the average value."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "otȳrāı",
+    "type": "predicate",
     "english": "▯ is a true oyster of genus Ostrea.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: From Ancient-Greek \"ὄστρειον\" (óstreion), whose -ει- suffix probably continues an earlier -αι- form."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "oqsīsāı",
-    "english": "▯ is (a quantity of) Oxygen (element 8)",
+    "type": "predicate",
+    "english": "▯ is (a quantity of) Oxygen (element 8).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "oı",
-    "english": "Extreme doubt illocution. Means \"it is said that\", \"im just throwing out there that\", or \"hypothetically\". Presents text as interesting important rather than true. Can also be used for sarcasm, works like a Toan '/s'.\n\ngỉ ní dảısīo bảkāmōqdā oı = \"'this' 'illocution' 'is' 'a' 'good' 'idea.'\"(these are scare quotes. intended to illustrate doubt. Sentences marked with oı will lack the connotation of being immensely annoying, hopefully)",
+    "type": "illocution",
+    "english": "extreme doubt illocution",
     "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [
-      "keywords: dubitative irrealis mood"
+      "Means \"it is said that\", \"I'm just throwing out there that\", or \"hypothetically\". Presents text as interesting or important rather than true. Can also be used for sarcasm, works like a Toan '/s'."
     ],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "gỉ ní dảısīo bảkāmōqdā oı",
+        "english": "'This' 'illocution' 'is' 'a' 'good' 'idea.'"
+      }
+    ]
   },
   {
     "toaq": "oıdēoq",
+    "type": "predicate",
     "english": "▯ communicates bullshit/satire/irony without intent to deceive audience ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [
-      "*deliberate* bullshit"
+      "Deliberate bullshit."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "oırō",
+    "type": "predicate",
     "english": "▯ is a quantity of the currency European euro.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "è",
+    "type": "interjection",
     "english": "colloquial interjection; signifies that the words uttered just right before (exact amount unspecific) were a mistake and are now going to be replaced with what is coming next.",
     "gloss": "",
     "short": "",
@@ -1413,52 +1947,72 @@
   },
   {
     "toaq": "ebī",
+    "type": "predicate",
     "english": "▯ is a prawn / shrimp.",
-    "gloss": "",
+    "gloss": "shrimp",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ebē",
+    "type": "predicate",
     "english": "▯ is of or pertaining to the Ewe people or language.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ebētōaq",
+    "type": "predicate",
     "english": "▯ is the Ewe language (the Niger-Congo language, belonging to the Gbe family, spoken by the Ewe people).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "echā",
+    "type": "predicate",
     "english": "▯ is a clown.",
-    "gloss": "",
+    "gloss": "clown",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "From Ithkuil «ekšál»."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ehēu",
+    "type": "predicate",
     "english": "▯ makes a sound which does not resemble an actual grunt as much as it signals their being under the influence of emotions.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
-      "from Latin ‘eheu’"
+      "From Latin ‘eheu’."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekū",
@@ -1475,100 +2029,139 @@
   },
   {
     "toaq": "ekūcīe",
+    "type": "predicate",
     "english": "▯ is a member of genus Hippocampus (the seahorses).",
-    "gloss": "",
+    "gloss": "seahorse",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekūfūqhēaq",
+    "type": "predicate",
     "english": "▯ is a bush cricket of genus Ephippiger.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
-      "Calque of \"Ephippiger\", from the Greek \"ἐφίππιον\" (\"saddle\") and the Latin -ger (\"bearing\").",
-      "(\"saddle\" or \"saddlecloth\", I'm not certain about the exact meaning of the Greek word.)"
+      "Calque of \"Ephippiger\", from the Greek \"ἐφίππιον\" (\"saddle\") and the Latin -ger (\"bearing\"). (\"Saddle\" or \"saddlecloth\", I'm not certain about the exact meaning of the Greek word.)"
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekūhāqjūq",
+    "type": "predicate",
     "english": "▯ is a louse fly of genus Hippobosca.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "From the Ancient Greek ἵππος (híppos, \"horse\") + βόσκω (bóskō, \"I feed/graze\")."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekūjīo",
-    "english": "▯ is a stable",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a stable.",
+    "gloss": "stable",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekūkōı",
-    "english": "▯ trots",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ trots.",
+    "gloss": "trot",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ekūadōrō",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Ecuador – Republic of Ecuador.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ekūadōrōgūa",
+    "type": "predicate",
     "english": "▯ is the country Ecuador – Republic of Ecuador.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Ekūadōrōtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Ecuador – Republic of Ecuador.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekīnōpīu",
-    "english": "▯ is a member of phylum Echinodermata; ▯ is a sea urchin/sand dollar/sea cucumber/sea lillie",
+    "type": "predicate",
+    "english": "▯ is a member of phylum Echinodermata; ▯ is a sea urchin/sand dollar/sea cucumber/sea lillie.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
-      "From ancient greek echinos+derma \"hedgehog skin\""
+      "From ancient greek echinos+derma \"hedgehog skin\"."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ekīnōıdēa",
-    "english": "▯ is a member of class Echinoidea; ▯ is a sea urchin/hedgehog",
+    "type": "predicate",
+    "english": "▯ is a member of class Echinoidea; ▯ is a sea urchin/hedgehog.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "elū",
@@ -1585,50 +2178,70 @@
   },
   {
     "toaq": "elēmē",
+    "type": "predicate",
     "english": "▯ is an elm tree (genus Ulmus).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "elȳbō",
+    "type": "predicate",
     "english": "▯ is a red deer.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Etymology: Proto-Indo-European *h₁éln̩bʰos, whence the Ancient Greek ἔλαφος/élaphos."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Erīe",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Ireland[25].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Erīegūa",
+    "type": "predicate",
     "english": "▯ is the country Ireland[25].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Erīetōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Ireland[25].",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "esā",
@@ -1645,81 +2258,114 @@
   },
   {
     "toaq": "esō",
+    "type": "predicate",
     "english": "▯ is a pike (fish).",
-    "gloss": "",
+    "gloss": "pike",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esēpānīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Spain – Kingdom of Spain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esēpānīagūa",
+    "type": "predicate",
     "english": "▯ is the country Spain – Kingdom of Spain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esēpānīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Spain – Kingdom of Spain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esētī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Estonia – Republic of Estonia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esētīgūa",
+    "type": "predicate",
     "english": "▯ is the country Estonia – Republic of Estonia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Esētītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Estonia – Republic of Estonia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "etōa",
+    "type": "predicate",
     "english": "▯ is a two-syllable word comprising of a meaningless vowel and a familiar native word root; ▯ is »etōa«-like in word shape.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
-      "closely related to the concept of a cranberry word (compare ‘cran-berry’)"
+      "Closely related to the concept of a cranberry word (compare ‘cran-berry’)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ēq",
-    "english": "hesitation, »holding the floor«",
+    "type": "interjection",
+    "english": "hesitation, holding the floor",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -1728,39 +2374,55 @@
   },
   {
     "toaq": "ea",
+    "type": "predicate",
     "english": "▯ could be the case if ▯ were the case.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ealūa",
+    "type": "predicate",
     "english": "▯ is a fiction.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "eamōı",
+    "type": "predicate",
     "english": "▯ imagines ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "eashāo",
+    "type": "predicate",
     "english": "▯ wishes ▯ could be the case, but it can't.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "eu",
@@ -1775,30 +2437,42 @@
   },
   {
     "toaq": "eorōpā",
+    "type": "predicate",
     "english": "▯ is Europe.",
-    "gloss": "",
+    "gloss": "Europe",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ychōa",
+    "type": "predicate",
     "english": "▯ utters an ‘uh’ sound.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ycī",
+    "type": "predicate",
     "english": "▯ is an ice mummy.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ykō",
@@ -1811,7 +2485,8 @@
   },
   {
     "toaq": "ỷo",
-    "english": "interjection: oof, ouch, ow",
+    "type": "interjection",
+    "english": "oof, ouch, ow",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -1820,6 +2495,7 @@
   },
   {
     "toaq": "q̄",
+    "type": "interjection",
     "english": "hesitation",
     "gloss": "",
     "short": "",
@@ -1839,300 +2515,432 @@
   },
   {
     "toaq": "babā",
+    "type": "predicate",
     "english": "▯ is bossy.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Babādō",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Barbados.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Babādōgūa",
+    "type": "predicate",
     "english": "▯ is the country Barbados.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Babādōtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Barbados.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "babūe",
+    "type": "predicate",
     "english": "▯ is a member of genus Papio (the baboons).",
-    "gloss": "",
+    "gloss": "baboon",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "badēoq",
-    "english": "▯ addresses commands at ▯. Speaks imperatively.",
+    "type": "predicate",
+    "english": "▯ addresses commands at / speaks imperatively to ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bafāq",
-    "english": "▯ should/ought to be the case; May ▯ be the case!",
+    "type": "predicate",
+    "english": "▯ should/ought to be the case; may ▯ be the case!",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagā",
+    "type": "predicate",
     "english": "▯ pulls ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagābūaq",
+    "type": "predicate",
     "english": "▯ unsuccessfully pulls ▯, failing to move/accelerate the latter.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagāchā",
+    "type": "predicate",
     "english": "▯ is ingressive/pronounced by \"sucking in\" air (phonetics)",
-    "gloss": "",
+    "gloss": "ingressive",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagācȳhȳ",
+    "type": "predicate",
     "english": "▯ breathes in.",
-    "gloss": "",
+    "gloss": "inhale",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagāsīoq",
+    "type": "predicate",
     "english": "▯ is a pulley.",
-    "gloss": "",
+    "gloss": "pulley",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagātāı",
+    "type": "predicate",
     "english": "▯ successfully pulls ▯, moving/accelerating the latter in the direction of the former.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bagātīaı",
+    "type": "predicate",
     "english": "▯ is a drawer (container).",
-    "gloss": "",
+    "gloss": "drawer",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bahāmā",
+    "type": "predicate",
     "english": "▯ pertains to the culture of The Bahamas → Bahamas, The.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bahāmāgūa",
+    "type": "predicate",
     "english": "▯ is the country The Bahamas → Bahamas, The.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bahāmātōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in The Bahamas → Bahamas, The.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bakājīa",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Abkhazia → Abkhazia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bakājīagūa",
+    "type": "predicate",
     "english": "▯ is the country Abkhazia → Abkhazia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bakājīatōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Abkhazia → Abkhazia.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bakāmōqdā",
+    "type": "predicate",
     "english": "▯ is a Toaq illocution; ▯ is one of <ba>, <ka>, <moq>, and <da>.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bakānūeq",
-    "english": "▯ is beef",
+    "type": "predicate",
+    "english": "▯ is beef.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "balū",
-    "english": "▯ should/ought to be the case; May ▯ be the case!",
+    "type": "predicate",
+    "english": "▯ should/ought to be the case; may ▯ be the case!",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bānākū",
+    "type": "predicate",
     "english": "▯ is a guanaco (Lama guanicoe).",
-    "gloss": "",
+    "gloss": "guanaco",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Banūatū",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Vanuatu – Republic of Vanuatu.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Banūatūgūa",
+    "type": "predicate",
     "english": "▯ is the country Vanuatu – Republic of Vanuatu.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Banūatūtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Vanuatu – Republic of Vanuatu.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "barābārā",
+    "type": "predicate",
     "english": "▯ is barbarous.",
-    "gloss": "",
+    "gloss": "barbarous",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "barābēq",
+    "type": "predicate",
     "english": "▯ is a brussels sprout. (Brassica Oleracea Gemmifera)",
-    "gloss": "",
+    "gloss": "brussels sprout",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Barājīu",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Brazil – Federative Republic of Brazil.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Barājīugūa",
+    "type": "predicate",
     "english": "▯ is the country Brazil – Federative Republic of Brazil.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Barājīutōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Brazil – Federative Republic of Brazil.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "barālā",
+    "type": "predicate",
     "english": "▯ is a member of genus Varanus (the monitor lizards).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "barārā",
@@ -2140,57 +2948,75 @@
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "thank you mí 小柳直美"
-    ],
+    "notes": [],
     "examples": []
   },
   {
     "toaq": "Barāınī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Bahrain – Kingdom of Bahrain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Barāınīgūa",
+    "type": "predicate",
     "english": "▯ is the country Bahrain – Kingdom of Bahrain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Barāınītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Bahrain – Kingdom of Bahrain.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "barīqcī",
+    "type": "predicate",
     "english": "▯ is a plant belonging to the Oryza genus.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Proto-Dravidian *wariñci, Old Persian *vrinǰi- → Greek ὄρυζα (óruza)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "basūe",
-    "english": "I ask you to make it so that ▯/0 happens.",
+    "type": "predicate",
+    "english": "I ask you to make it so that ▯ happens.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "batātā",
@@ -2207,30 +3033,42 @@
   },
   {
     "toaq": "Batīkāq",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Vatican City – Vatican City State.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Batīkāqgūa",
+    "type": "predicate",
     "english": "▯ is the country Vatican City – Vatican City State.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Batīkāqtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Vatican City – Vatican City State.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baq",
@@ -2259,69 +3097,105 @@
   },
   {
     "toaq": "baqchō",
+    "type": "predicate",
     "english": "▯ likes things that satisfy property ▯; ▯ likes all that ▯'s.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baqdākī",
+    "type": "predicate",
     "english": "▯ is a member of the species Solanum melongena (eggplant/aubergine).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baqjō",
+    "type": "predicate",
     "english": "▯ is a banjo.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baqjēo",
-    "english": "▯ is a property that typical things which satisfy property ▯satisfy; ▯ is a ▯-er-y thing to do/be.",
+    "type": "predicate",
+    "english": "▯ is a property that typical things which satisfy property ▯ satisfy; ▯ is a ▯-er-y thing to do/be.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "1 1",
+    "distribution": "d d",
     "notes": [
-      "to be used in serials like: báqjēo poq = ‘what humans typically are’",
-      "baqjēo poq lî miu hóq = it's typical of one to think that"
+      "To be used in serials."
     ],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "báqjēo pỏq",
+        "english": "what people typically are"
+      },
+      {
+        "toaq": "bảqjēo pỏq mîu hóq da",
+        "english": "It's typical of one to think that."
+      }
+    ],
+    "fields": []
   },
   {
     "toaq": "Baqlādēshī",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Bangladesh – People's Republic of Bangladesh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Baqlādēshīgūa",
+    "type": "predicate",
     "english": "▯ is the country Bangladesh – People's Republic of Bangladesh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Baqlādēshītōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Bangladesh – People's Republic of Bangladesh.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baqlī",
@@ -2370,12 +3244,16 @@
   },
   {
     "toaq": "baqtēı",
+    "type": "predicate",
     "english": "▯ is the idealized shape of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baı",
@@ -2392,57 +3270,81 @@
   },
   {
     "toaq": "baıchūo",
+    "type": "predicate",
     "english": "▯ is a physical tool for purpose ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baıgīq",
+    "type": "predicate",
     "english": "▯ disassembles/deconstructs ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baıhīu",
+    "type": "predicate",
     "english": "▯ is a canal (\"artificial river\").",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baılōhā",
-    "english": "▯ is the metal iron",
+    "type": "predicate",
+    "english": "▯ is the metal iron.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baısē",
+    "type": "predicate",
     "english": "▯ is an artefact, an artificial or human-made object.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baıtōaq",
+    "type": "predicate",
     "english": "▯ is a constructed language / conlang.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bao",
@@ -2459,14 +3361,18 @@
   },
   {
     "toaq": "baobāo",
+    "type": "predicate",
     "english": "▯ is a bow-wow dog.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Infantile term."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baogūı",
@@ -2483,32 +3389,42 @@
   },
   {
     "toaq": "baogūıcīepābākāshūnāonīubīu",
+    "type": "predicate",
     "english": "▯ is sushi.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "lovely+"
-    ],
-    "examples": []
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baolūaq",
+    "type": "predicate",
     "english": "▯ is the white player; ▯ controls the white side.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baopō",
+    "type": "predicate",
     "english": "▯ is the white player’s.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "baorēo",
@@ -2538,79 +3454,102 @@
   },
   {
     "toaq": "bubā",
+    "type": "predicate",
     "english": "▯ is a naysayer.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bubu",
+    "type": "predicate",
     "english": "▯ is not not the case; It's not the case that ▯ isn't the case; ▯ indeed is the case.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "(and analogously for /2)"
-    ],
-    "examples": []
+    "frame": "0; c 1",
+    "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bucā",
+    "type": "predicate",
     "english": "predicate: ‘prevent’; That ▯ is the case prevents ▯ from being the case.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [
-      "+1 for the innocuousness"
-    ],
-    "examples": []
+    "frame": "0 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budā",
+    "type": "predicate",
     "english": "▯ is a buddha.",
-    "gloss": "",
+    "gloss": "buddha",
     "short": "",
     "keywords": [],
-    "notes": [
-      "+1 (bủ ₫a)"
-    ],
-    "examples": []
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budāchūaq",
+    "type": "predicate",
     "english": "▯ is Buddhism.",
-    "gloss": "",
+    "gloss": "Buddhism",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budāıbū",
+    "type": "predicate",
     "english": "It is not possible for ▯ not to be the case; ▯ must happen.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "",
+    "distribution": "",
     "notes": [
       "this is a serial palindrome (budāıbū = bu dảı bủ)",
       "as pointed out by @seaqtaq, this word should belong to the JEO frame. I hereby pronounce him right."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budūocēaq",
+    "type": "predicate",
     "english": "▯ is a cheetah.",
-    "gloss": "",
+    "gloss": "cheetah",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budūe",
-    "english": "Sentence prefix: this sentence is not an answer to the preceding question.",
+    "type": "sentence prefix",
+    "english": "This sentence is not an answer to the preceding question.",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -2619,97 +3558,137 @@
   },
   {
     "toaq": "budīe",
+    "type": "predicate",
     "english": "▯ warns ▯ against doing ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c 1",
+    "distribution": "d d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "budō",
+    "type": "predicate",
     "english": "▯ is a noodle(s) of type ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "",
+    "distribution": "",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Bufīeqfūaqgōalāı",
+    "type": "predicate",
     "english": "▯ is uncharted according to ▯",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "",
+    "distribution": "",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bufōaqcā",
-    "english": "predicate: annoy; ▯ annoys ▯; ▯ is annoying.",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ annoys ▯; ▯ is annoying.",
+    "gloss": "annoy",
     "short": "",
     "keywords": [],
+    "frame": "0 c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bujūı",
+    "type": "predicate",
     "english": "▯ is barely the case; ▯ barely satisfies property ▯.",
-    "gloss": "",
+    "gloss": "barely",
     "short": "",
     "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bukā",
+    "type": "predicate",
     "english": "▯ dares to do ▯.",
-    "gloss": "",
+    "gloss": "dare",
     "short": "",
     "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [
       "A priori."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bukūıbū",
+    "type": "predicate",
     "english": "▯ is the case despite / in spite of ▯ being the case.",
-    "gloss": "",
+    "gloss": "despite",
     "short": "",
     "keywords": [],
+    "frame": "0 0",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bulā",
+    "type": "predicate",
     "english": "▯ is a bubble.",
-    "gloss": "",
+    "gloss": "bubble",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "From Tagalog and Cebuano \"buláʔ\"."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bulāmē",
+    "type": "predicate",
     "english": "▯ is foam/froth.",
-    "gloss": "",
+    "gloss": "foam",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bulūa",
+    "type": "predicate",
     "english": "▯ is a fiction.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bumērāq",
@@ -2725,40 +3704,56 @@
     "fields": []
   },
   {
-    "toaq": "Bupūıpōqdūarīaq",
+    "toaq": "bupūıpōqdūarīaq",
+    "type": "predicate",
     "english": "▯ is an unpopular location, or what’s colloquially known as a “backwaters” place.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burāsī",
+    "type": "predicate",
     "english": "is Brazilian / is of Brazil, its languages or people.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burāsīhēbē",
+    "type": "predicate",
     "english": "▯ is a rubber tree (Hevea brasiliensis).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burāqsāı",
-    "english": "▯ is (a quantity of) Boron (element 5)",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is (a quantity of) Boron (element 5).",
+    "gloss": "boron",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burūaq",
@@ -2780,118 +3775,169 @@
   },
   {
     "toaq": "burūo",
+    "type": "predicate",
     "english": "▯ is a typical moss, belonging to the Bryum taxonomic genus.",
-    "gloss": "",
+    "gloss": "moss",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burūonīu",
+    "type": "predicate",
     "english": "▯ is a bryophyte (Bryophyta taxonomic phylum).",
-    "gloss": "",
+    "gloss": "bryophyte",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burī",
+    "type": "predicate",
     "english": "▯ is brie.",
-    "gloss": "",
+    "gloss": "brie",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "burīaq",
-    "english": "▯ is a utopia",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a utopia.",
+    "gloss": "utopia",
     "short": "",
-    "keywords": [],
-    "notes": [
-      "from greek ou+topos",
-      "Keywords: paradise, heaven"
+    "keywords": [
+      "utopia",
+      "paradise",
+      "heaven"
     ],
-    "examples": []
+    "frame": "c",
+    "distribution": "d",
+    "notes": [
+      "From greek ou+topos."
+    ],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "busā",
+    "type": "predicate",
     "english": "▯ is the case or isn’t the case or whatever; Never mind about ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [
-      "used to expunge a statement in afterthought (by means of bũsā)"
+      "Used to expunge a statement in afterthought (by means of bũsā)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bushebu",
+    "type": "predicate",
     "english": "▯ has ▯ as a necessary, but not necessarily sufficient condition; For ▯, ▯ must happen.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "",
+    "distribution": "",
     "notes": [
       "this is essentially ‘mu she,’ but more naturalistic."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Butāq",
+    "type": "predicate",
     "english": "▯ pertains to the culture of Bhutan – Kingdom of Bhutan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Butāqgūa",
+    "type": "predicate",
     "english": "▯ is the country Bhutan – Kingdom of Bhutan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "Butāqtōaq",
+    "type": "predicate",
     "english": "▯ is (one of) the language(s) spoken in Bhutan – Kingdom of Bhutan.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "butāo",
+    "type": "predicate",
     "english": "▯ abstains from doing ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "butīdūo",
+    "type": "predicate",
     "english": "▯ moves away from ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buzōlōkīa",
+    "type": "predicate",
     "english": "▯ is a ghost pepper (Bhut jolokia).",
-    "gloss": "",
+    "gloss": "ghost pepper",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bu dảı",
@@ -2952,66 +3998,94 @@
   },
   {
     "toaq": "buqbīu",
+    "type": "predicate",
     "english": "▯ is a proboscis.",
-    "gloss": "",
+    "gloss": "proboscis",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqbēq",
+    "type": "predicate",
     "english": "▯ is a muzzle/snout.",
-    "gloss": "",
+    "gloss": "muzzle",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqhīao",
+    "type": "predicate",
     "english": "▯ bites ▯.",
-    "gloss": "",
+    "gloss": "bite",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqhīe",
+    "type": "predicate",
     "english": "▯ carries ▯ with their mouth.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqjīaı",
+    "type": "predicate",
     "english": "▯ holds ▯ in/with its/his/her/their mouth.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqjēoq",
+    "type": "predicate",
     "english": "▯ is an oral cavity.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqkūoq",
+    "type": "predicate",
     "english": "▯ is a tooth.",
-    "gloss": "",
+    "gloss": "tooth",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqlūao",
@@ -3028,77 +4102,109 @@
   },
   {
     "toaq": "buqlīashō",
-    "english": "▯ debuccalizes",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ debuccalizes.",
+    "gloss": "debuccalize",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqnāo",
+    "type": "predicate",
     "english": "▯ is saliva.",
-    "gloss": "",
+    "gloss": "saliva",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [
       "Calque from the Proto-Mandé \"da-yi\" (mouth-water)."
     ],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqpīo",
+    "type": "predicate",
     "english": "▯ is a tooth.",
-    "gloss": "",
+    "gloss": "tooth",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqshāıcā",
-    "english": "▯ is a gobstopper (candy)",
+    "type": "predicate",
+    "english": "▯ is a gobstopper (candy).",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqsēaq",
-    "english": "▯ performs oral sex on ▯",
+    "type": "predicate",
+    "english": "▯ performs oral sex on ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqtūaq",
+    "type": "predicate",
     "english": "▯ is a beak.",
-    "gloss": "",
+    "gloss": "beak",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqtīabīu",
+    "type": "predicate",
     "english": "▯ is a pharynx.",
-    "gloss": "",
+    "gloss": "pharynx",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buqtīetī",
-    "english": "▯ is velar/articulated at the soft palate/velum",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is velar/articulated at the soft palate/velum.",
+    "gloss": "velar",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "bua",
@@ -3115,12 +4221,16 @@
   },
   {
     "toaq": "buachāo",
+    "type": "predicate",
     "english": "▯ is a van / mobile home / motor home.",
     "gloss": "",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buajīo",
@@ -3137,30 +4247,42 @@
   },
   {
     "toaq": "buajīomē",
-    "english": "▯ is a neighborhood",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a neighborhood.",
+    "gloss": "neighborhood",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buajēq",
+    "type": "predicate",
     "english": "▯ is a housemate/roommate/flatmate of ▯.",
-    "gloss": "",
+    "gloss": "roommate",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buamē",
+    "type": "predicate",
     "english": "▯ is a population inhabiting ▯.",
-    "gloss": "",
+    "gloss": "population",
     "short": "",
     "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "buaq",
