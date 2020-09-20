@@ -2475,7 +2475,7 @@
   },
   {
     "toaq": "ykō",
-    "english": "▯ is the relation obtained by composing the relation ▯ with itself N times, with N being the cardinality of anything satisfying property ▯;\nthe relation ▯ is the N-th iterate or N-th relational power of the relation ▯, N being the cardinality of anything satisfying property ▯.",
+    "english": "▯ is the relation obtained by composing the relation ▯ with itself N times, with N being the cardinality of anything satisfying property ▯; the relation ▯ is the N-th iterate or N-th relational power of the relation ▯, N being the cardinality of anything satisfying property ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -29223,11 +29223,13 @@
   },
   {
     "toaq": "jajā",
-    "english": "colloq. ▯ is very/extremely/totally ▯\ncomes from Toaq \"jảq jảq\"",
+    "english": "colloq. ▯ is very/extremely/totally ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
-    "notes": [],
+    "notes": [
+      "Comes from Toaq \"jảq jảq\""
+    ],
     "examples": []
   },
   {
@@ -47309,12 +47311,21 @@
   },
   {
     "toaq": "mıoı",
-    "english": "predicate: null/no meaning, fills in a blank spot with no meaning, verbal form of ▯\nmỉoı jí súq - I ▯ you\ndỏa míoı míoı súq - ▯ gives property ▯ to you",
+    "english": "predicate: null/no meaning, fills in a blank spot with no meaning, verbal form of ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "mỉoı jí súq da",
+        "english": "I ▯ you."
+      },
+      {
+        "toaq": "dỏa míoı míoı súq da",
+        "english": "▯ gives property ▯ to you."
+      }
+    ]
   },
   {
     "toaq": "mıe",
@@ -55377,12 +55388,13 @@
   },
   {
     "toaq": "puqtō",
-    "english": "separator: ‘CONJ’; helper particle in forethought conjunctions: puqtō + conj ▯ to ▯ to ▯ to ▯... na\nNo automatic termination. Requires na.",
+    "english": "separator: ‘CONJ’; helper particle in forethought conjunctions: puqtō + conj ▯ to ▯ to ▯ to ▯... na.",
     "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [
-      "thought of by ntsekees a long while ago"
+      "No automatic termination. Requires na.",
+      "Thought of by Ntsékees a long while ago."
     ],
     "examples": []
   },
@@ -70625,7 +70637,7 @@
   },
   {
     "toaq": "sykī",
-    "english": "▯ experiences/feels/lives by a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals:\n• a calm appreciation for, and acceptance of, those aspects of one’s life/existence that cannot be controlled/avoided (e.g., death, pain, loss, misfortune, etc.), due to understanding that such things are necessary to have a true appreciation for the value of life’s joys;\n• being able to identify/recognize opportunities to improve one’s chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so causes no harm to others or to Nature;\n• a deep appreciation and sense of wonder at the beauty and majesty of Nature;\n• a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity and well-being to people’s lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alienating, anxiety-causing or destructive in the long-term;\n• a sense of personal reward, pride, and personal sanction (i.e., a feeling that one’s existence is justified) when experiencing joy in one’s life;\n• joy from, and humble appreciation for, the giving and receiving of love to/from others;\n• humbleness in understanding that one’s own joy and sense of personal sanction/reward for achieving one’s goals/desires is a private, personal matter not to be used arrogantly as a weapon against the self-esteem of other people.",
+    "english": "▯ experiences/feels/lives by a striving for (and, if achieved, the serenity resulting from) a delicate but sustained balance of the following personal states/ideals: a calm appreciation for, and acceptance of, those aspects of one’s life/existence that cannot be controlled/avoided (e.g., death, pain, loss, misfortune, etc.), due to understanding that such things are necessary to have a true appreciation for the value of life’s joys; being able to identify/recognize opportunities to improve one’s chances for happiness/achievement/self-esteem and having the willingness and determination to pursue such opportunities as long as doing so causes no harm to others or to Nature; a deep appreciation and sense of wonder at the beauty and majesty of Nature; a deep appreciation and sense of pride in those achievements of humankind that have brought happiness, prosperity and well-being to people’s lives, while at the same time having a keen ability to distinguish the difference between those achievements which have truly benefited humankind versus those seeming achievements which are ultimately divisive, alienating, anxiety-causing or destructive in the long-term; a sense of personal reward, pride, and personal sanction (i.e., a feeling that one’s existence is justified) when experiencing joy in one’s life; joy from, and humble appreciation for, the giving and receiving of love to/from others; humbleness in understanding that one’s own joy and sense of personal sanction/reward for achieving one’s goals/desires is a private, personal matter not to be used arrogantly as a weapon against the self-esteem of other people.",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -72763,7 +72775,7 @@
   },
   {
     "toaq": "tuaobūpē",
-    "english": "the degree to which ▯ is the case is greater than the average among ▯;\nthe degree to which ▯ satisfies property ▯ is greater than the average among ▯.",
+    "english": "the degree to which ▯ is the case is greater than the average among ▯; the degree to which ▯ satisfies property ▯ is greater than the average among ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -72781,7 +72793,7 @@
   },
   {
     "toaq": "tuaopē",
-    "english": "the degree to which ▯ is the case is lesser than the average among ▯;\nthe degree to which ▯ satisfies property ▯ is lesser than the average among ▯.",
+    "english": "the degree to which ▯ is the case is lesser than the average among ▯; the degree to which ▯ satisfies property ▯ is lesser than the average among ▯.",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -76660,12 +76672,17 @@
   },
   {
     "toaq": "zoı",
-    "english": "Particle: the following word renders the containing predicate false, but replace it with another word that is thought of by the user of zoi and it becomes true. May be used for sarcasm.\n\nex. zoı gỉ ní da = this is \"good\"(true sentence, sarcastic)\n      gỉ ní da = this is good(false sentence)\n      hủı ní da = this is bad(true if huı is what the zoı-er is trying to imply by zoı)",
+    "english": "Particle: the following word renders the containing predicate false, but replace it with another word that is thought of by the user of zoi and it becomes true. May be used for sarcasm.",
     "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "zoı gỉ ní da",
+        "english": "This is \"good\". (sarcastic)"
+      }
+    ]
   },
   {
     "toaq": "zenā",
