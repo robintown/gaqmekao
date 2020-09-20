@@ -7,7 +7,7 @@
 process.chdir(__dirname);
 const dictionary = require('./../dictionary.json');
 
-const tabfile = dictionary.map(entry => {
+const definitions = dictionary.map(entry => {
     const sections = [];
 
     if (entry.type)
@@ -17,8 +17,6 @@ const tabfile = dictionary.map(entry => {
       sections.push(`official`);
     if (entry.gloss)
       sections.push(`gloss: ${entry.gloss}`);
-    if (entry.keywords.length > 0)
-      sections.push(`keywords: ${entry.keywords.join(', ')}`);
     if (entry.frame)
       sections.push(`frame: ${entry.frame}${entry.namesake ? ' (namesake)' : ''}`);
     if (entry.distribution)
@@ -40,4 +38,11 @@ const tabfile = dictionary.map(entry => {
     return `${entry.toaq}\t${sections.join('\\n\\n')}`;
   }).join('\n');
 
-process.stdout.write(tabfile + '\n');
+const keywords = [...new Set(dictionary.map(entry => entry.keywords).flat())]
+  .map(keyword => {
+    const keyed = dictionary.filter(entry => entry.keywords.includes(keyword));
+    return `${keyword}\t${keyed.map(entry => entry.toaq).join(', ')}`;
+  }).join('\n');;
+
+const tabfile = [definitions, keywords].join('\n') + '\n';
+process.stdout.write(tabfile);
