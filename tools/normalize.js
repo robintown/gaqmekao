@@ -40,6 +40,7 @@ d = d.sort((a_, b_) => {
   let predlike = ['predicate', 'predicatizer'].includes(obj.type);
   return {
     toaq: obj.toaq, type: obj.type, english: obj.english,
+    official: obj.official,
     gloss: obj.gloss || '',
     short: obj.short || '', keywords: obj.keywords || [],
     frame: predlike ? obj.frame || '' : undefined,

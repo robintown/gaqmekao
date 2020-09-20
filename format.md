@@ -10,6 +10,7 @@ Please insert your fields as you need them (not too much, though) – the format
   - `"serial predicate"`;
   - for particles, a descriptive name such as `"predicatizer"`, `"text-quote"`…
 * `english` – definition in English
+* `official` - whether the word is official
 * `gloss` – linguistic gloss in English; use periods instead of spaces
 * `keywords` - a list of English words that one might search for when trying to find the headword; synonyms of the gloss or of the main words found in the sentential definition
 * `frame` – frame definition, if known; `"variable"` means that the word doesn't have a set frame (possibly anaphoric)
