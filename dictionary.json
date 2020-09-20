@@ -882,15 +882,6 @@
     "examples": []
   },
   {
-    "toaq": "ȷuıbō",
-    "english": "▯ has ▯ with them",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "uoı",
     "english": "▯ is deprecated.",
     "gloss": "",
@@ -902,15 +893,6 @@
   {
     "toaq": "ùe",
     "english": "Interjection: expression of surprise, with overtones of disagreement or protest.",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "ȷuy",
-    "english": "▯ is the same as ▯ in the sense that the same things do ▯ to each of them",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -1154,26 +1136,6 @@
     "examples": []
   },
   {
-    "toaq": "ȷıqzī",
-    "english": "Property ▯ is intrinsic to ▯",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [
-      "Lojban borrowing, created in a rush"
-    ],
-    "examples": []
-  },
-  {
-    "toaq": "ȷıamīq",
-    "english": "▯ will always be the case",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "ıat",
     "english": "▯ is a protist.",
     "gloss": "",
@@ -1181,17 +1143,6 @@
     "keywords": [],
     "notes": [
       "1 syllable because yes"
-    ],
-    "examples": []
-  },
-  {
-    "toaq": "ȷıaogōafūaq",
-    "english": "▯ is an idol",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [
-      "(Maybe there should be a slot for \"of god/goddess ▯\"?)"
     ],
     "examples": []
   },
@@ -1411,15 +1362,6 @@
     "examples": []
   },
   {
-    "toaq": "ȷoqhūachūoı",
-    "english": "▯ is a halter (a set of straps with a rope attached that you put an equine's head through so that you can steer it)",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "oqsīsāı",
     "english": "◌ is (a quantity of) Oxygen (element 8)",
     "gloss": "",
@@ -1563,6 +1505,15 @@
     "examples": []
   },
   {
+    "toaq": "ekūjīo",
+    "english": "▯ is a stable",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ekūkōı",
     "english": "▯ trots",
     "gloss": "",
@@ -1592,15 +1543,6 @@
   {
     "toaq": "Ekūadōrōtōaq",
     "english": "▯ is (one of) the language(s) spoken in Ecuador – Republic of Ecuador.",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "ekūȷīo",
-    "english": "▯ is a stable",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -3193,6 +3135,15 @@
     "fields": []
   },
   {
+    "toaq": "buajīomē",
+    "english": "▯ is a neighborhood",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "buajēq",
     "english": "▯ is a housemate/roommate/flatmate of ▯.",
     "gloss": "",
@@ -3369,15 +3320,6 @@
   {
     "toaq": "buaıtōaı",
     "english": "▯ is a unit of length",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "buaȷīomē",
-    "english": "▯ is a neighborhood",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -12446,6 +12388,15 @@
     "examples": []
   },
   {
+    "toaq": "daıjēo",
+    "english": "▯ could end up satisfying property ▯ depending on how things go",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "daımōnō",
     "english": "▯ is a demon.",
     "gloss": "",
@@ -12475,15 +12426,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "daıȷēo",
-    "english": "▯ could end up satisfying property ▯ depending on how things go",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "dao",
@@ -15740,7 +15682,7 @@
       "(went for a diphthong word instead of, say, ‘te,’ because the latter would’ve been too light for the heavy function it performs.",
       "this particle belongs to PO, the predicatiser class)",
       "example?",
-      "\"Dẻı mâı ȷa ȷa na, ȷí súq\" = \"Mảı ȷí súq\""
+      "\"Dẻı mâı ja ja na, jí súq\" = \"Mảı jí súq\""
     ],
     "examples": []
   },
@@ -24474,6 +24416,15 @@
     "fields": []
   },
   {
+    "toaq": "huıdāıjēo",
+    "english": "▯ is in danger of satisfying property ▯",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "huıdāımōı",
     "english": "▯ feels anxiety; ▯ is anxious.",
     "gloss": "",
@@ -24509,15 +24460,6 @@
     "notes": [
       "tag: worry"
     ],
-    "examples": []
-  },
-  {
-    "toaq": "huıdāıȷēo",
-    "english": "▯ is in danger of satisfying property ▯",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
     "examples": []
   },
   {
@@ -29419,6 +29361,19 @@
     "examples": []
   },
   {
+    "toaq": "juıbō",
+    "type": "predicate",
+    "english": "▯ has ▯ with them",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "juıdūo",
     "english": "▯ passes by ▯.",
     "gloss": "",
@@ -29773,6 +29728,15 @@
     "examples": []
   },
   {
+    "toaq": "juy",
+    "english": "▯ is the same as ▯ in the sense that the same things do ▯ to each of them",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "jı",
     "type": "predicate",
     "english": "▯ is me / the speaker.",
@@ -30077,6 +30041,17 @@
     "examples": []
   },
   {
+    "toaq": "jıqzī",
+    "english": "Property ▯ is intrinsic to ▯",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [
+      "Lojban borrowing, created in a rush"
+    ],
+    "examples": []
+  },
+  {
     "toaq": "jıqzȳ",
     "english": "▯ are jeans.",
     "gloss": "",
@@ -30185,6 +30160,15 @@
   {
     "toaq": "jıakōekāo",
     "english": "▯ is a to-do list.",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "jıamīq",
+    "english": "▯ will always be the case",
     "gloss": "",
     "short": "",
     "keywords": [],
@@ -30487,6 +30471,17 @@
     "short": "",
     "keywords": [],
     "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "jıaogōafūaq",
+    "english": "▯ is an idol",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [
+      "(Maybe there should be a slot for \"of god/goddess ▯\"?)"
+    ],
     "examples": []
   },
   {
@@ -31291,6 +31286,15 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "joqhūachūoı",
+    "english": "▯ is a halter (a set of straps with a rope attached that you put an equine's head through so that you can steer it)",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "joqhūachȳlī",
@@ -46881,7 +46885,7 @@
     "short": "",
     "keywords": [],
     "notes": [
-      "For example: \"Mỏao «Kủnē ȷí» teo kátū\" = \" 'I am a dog,' said the cat.\""
+      "For example: \"Mỏao «Kủnē jí» teo kátū\" = \" 'I am a dog,' said the cat.\""
     ],
     "examples": []
   },
