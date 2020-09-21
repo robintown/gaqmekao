@@ -42,7 +42,7 @@ const keywords = [...new Set(dictionary.map(entry => entry.keywords).flat())]
   .map(keyword => {
     const keyed = dictionary.filter(entry => entry.keywords.includes(keyword));
     return `${keyword}\t${keyed.map(entry => entry.toaq).join(', ')}`;
-  }).join('\n');;
+  }).join('\n');
 
 const tabfile = [definitions, keywords].join('\n') + '\n';
 process.stdout.write(tabfile);
