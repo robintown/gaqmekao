@@ -15209,13 +15209,13 @@
   {
     "toaq": "dıa",
     "type": "predicate",
-    "english": "▯ decreases in how much it satisfies property ▯.",
+    "english": "▯ is decreasingly the case; ▯ decreases in how much it satisfies property ▯.",
     "official": true,
     "gloss": "decrease",
     "short": "",
     "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -28408,13 +28408,13 @@
   {
     "toaq": "hoaı",
     "type": "predicate",
-    "english": "▯ is still the case.",
+    "english": "▯ is still the case; ▯ still satisfies property ▯.",
     "official": true,
     "gloss": "still",
     "short": "",
     "keywords": [],
-    "frame": "0",
-    "distribution": "d",
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [],
     "examples": [],
     "fields": []
