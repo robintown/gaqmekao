@@ -49500,6 +49500,28 @@
     "examples": []
   },
   {
+    "toaq": "memūoq",
+    "type": "predicate",
+    "english": "▯ is made of ▯ collectively.",
+    "official": true,
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d n",
+    "notes": [
+      "The material constitution relation for plural values.",
+      "Unlike **me**, this does not refer to mereological sums. It instead singularizes plural values in a way such that individuals can still be recovered."
+    ],
+    "examples": [
+      {
+        "toaq": "bẻo mẻmūoq gáqmē da",
+        "english": "The members of the community change."
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "memī",
     "english": "▯ is a proper noun.",
     "gloss": "",
