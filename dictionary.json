@@ -75893,9 +75893,9 @@
   {
     "toaq": "toaq",
     "type": "predicate",
-    "english": "▯ is a language.",
+    "english": "▯ is Toaqic; ▯ is of or pertaining to Toaq.",
     "official": true,
-    "gloss": "language",
+    "gloss": "Toaqic",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -76246,6 +76246,20 @@
       "gloss: syntax"
     ],
     "examples": []
+  },
+  {
+    "toaq": "Toaqzu",
+    "type": "predicate",
+    "english": "▯ is the Toaq language.",
+    "official": true,
+    "gloss": "language",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "toaı",
@@ -77646,12 +77660,17 @@
   },
   {
     "toaq": "zu",
-    "english": "▯ is you(informal). \"ya\". informal suq",
-    "gloss": "",
+    "type": "predicate",
+    "english": "▯ is a language.",
+    "official": true,
+    "gloss": "language",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "zurū",
