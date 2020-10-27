@@ -19,10 +19,16 @@ jobs:
         run: |
           export PATH="$PATH:/usr/lib/stardict-tools"
           tools/stardict.sh
+      - name: create ASCIIfied StarDict export
+        run: |
+          export PATH="$PATH:/usr/lib/stardict-tools"
+          tools/stardict.sh --ascii
       - name: release exports
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: latest
           prerelease: false
-          files: stardict.tar.xz
+          files: |
+            stardict.tar.xz
+            stardict-ascii.tar.xz
