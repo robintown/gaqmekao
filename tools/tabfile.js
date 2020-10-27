@@ -6,12 +6,18 @@
 
 process.chdir(__dirname);
 const dictionary = require('./../dictionary.json');
+const ascii = process.argv.includes("--ascii");
 
 const escape = text => text.replace(/\\/g, '\\\\');
+const asciify = text => text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ı/g, "i");
 
 const definitions = dictionary.map(entry => {
     const sections = [];
 
+    const head = ascii ? asciify(entry.toaq) : entry.toaq;
+
+    if (ascii)
+      sections.push(escape(entry.toaq));
     if (entry.type)
       sections.push(escape(entry.type));
     sections.push(escape(entry.english));
@@ -37,13 +43,13 @@ const definitions = dictionary.map(entry => {
       sections.push(`examples:\\n\t${exLines.join('\\n\t')}`);
     }
 
-    return `${entry.toaq}\t${sections.join('\\n\\n')}`;
+    return `${escape(head)}\t${sections.join('\\n\\n')}`;
   }).join('\n');
 
 const keywords = [...new Set(dictionary.map(entry => entry.keywords).flat())]
   .map(keyword => {
     const keyed = dictionary.filter(entry => entry.keywords.includes(keyword));
-    return `${keyword}\t${keyed.map(entry => escape(entry.toaq)).join(', ')}`;
+    return `${keyword}\t${keyed.map(entry => escape(ascii ? asciify(entry.toaq) : entry.toaq)).join(', ')}`;
   }).join('\n');
 
 const tabfile = [definitions, keywords].join('\n') + '\n';
